@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.poi:poi-ooxml-schemas:3.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Server/gradle-3.2/bin/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml-schemas/3.8/cb3b26809ec65eba22143acfddf654bcf70aa009/poi-ooxml-schemas-3.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

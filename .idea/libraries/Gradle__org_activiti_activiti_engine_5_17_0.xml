@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.activiti:activiti-engine:5.17.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Server/gradle-3.2/bin/caches/modules-2/files-2.1/org.activiti/activiti-engine/5.17.0/c23e0121c07da62dee8970beee32b7907c7db010/activiti-engine-5.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Server/gradle-3.2/bin/caches/modules-2/files-2.1/org.activiti/activiti-engine/5.17.0/745b1fb9b466af844d8d644bbd8211626278b2f3/activiti-engine-5.17.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

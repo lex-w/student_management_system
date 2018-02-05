@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.activiti:activiti-image-generator:5.17.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Server/gradle-3.2/bin/caches/modules-2/files-2.1/org.activiti/activiti-image-generator/5.17.0/227c0900dadfe1fede5413d8fdacf6c261f373cd/activiti-image-generator-5.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Server/gradle-3.2/bin/caches/modules-2/files-2.1/org.activiti/activiti-image-generator/5.17.0/4def1869b54575a13ccb78bf822908154de53df6/activiti-image-generator-5.17.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
