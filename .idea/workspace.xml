@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f90611d-29a2-4d30-bb5b-9c716a10defb" name="Default" comment="" />
+    <list default="true" id="9f90611d-29a2-4d30-bb5b-9c716a10defb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/resources/spring/springMVC.xml" afterPath="$PROJECT_DIR$/web/src/main/resources/spring/springMVC.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -57,21 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="springMVC.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="springMVC.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/src/main/resources/spring/springMVC.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/src/main/resources/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -554,9 +546,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6071298807000" />
+        <entry key="$PROJECT_DIR$" value="6071315140000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="336561387" />
         <entry key="$PROJECT_DIR$/service/build.gradle" value="3027275361" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="3627495167" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1638593635" />
         <entry key="$PROJECT_DIR$/web/build.gradle" value="2627569320" />
       </map>
     </option>
@@ -749,11 +742,11 @@
         <option value="$PROJECT_DIR$/web/src/main/resources/spring/spring_thread.xml" />
         <option value="$PROJECT_DIR$/web/src/main/resources/common.properties" />
         <option value="$PROJECT_DIR$/web/src/main/resources/log4j.xml" />
-        <option value="$PROJECT_DIR$/web/src/main/resources/spring/springMVC.xml" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/google/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/web/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/spring/springMVC.xml" />
       </list>
     </option>
   </component>
@@ -791,7 +784,7 @@
           <expand>
             <path>
               <item name="student_management_system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="student_management_system" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="student_management_system" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -992,12 +985,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517824069129</updated>
-      <workItem from="1517824072847" duration="3542000" />
+      <workItem from="1517824072847" duration="3726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3542000" />
+    <option name="totallyTimeSpent" value="3726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1908" height="1011" extended-state="0" />
@@ -1129,22 +1122,22 @@
         <state relative-caret-position="-482">
           <caret line="2" column="60" lean-forward="false" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
           <folding>
-            <element signature="e#849#862#0" expanded="true" />
-            <element signature="e#900#918#0" expanded="true" />
-            <element signature="e#956#974#0" expanded="true" />
-            <element signature="e#1032#1051#0" expanded="true" />
-            <element signature="e#1117#1138#0" expanded="true" />
-            <element signature="e#1203#1220#0" expanded="true" />
-            <element signature="e#1276#1293#0" expanded="true" />
-            <element signature="e#1383#1422#0" expanded="true" />
-            <element signature="e#1559#1595#0" expanded="true" />
-            <element signature="e#1677#1702#0" expanded="true" />
-            <element signature="e#1745#1768#0" expanded="true" />
-            <element signature="e#1865#1887#0" expanded="true" />
-            <element signature="e#1929#1951#0" expanded="true" />
-            <element signature="e#2048#2080#0" expanded="true" />
-            <element signature="e#2151#2202#0" expanded="true" />
-            <element signature="e#2253#2270#0" expanded="true" />
+            <element signature="e#849#862#0" expanded="false" />
+            <element signature="e#900#918#0" expanded="false" />
+            <element signature="e#956#974#0" expanded="false" />
+            <element signature="e#1032#1051#0" expanded="false" />
+            <element signature="e#1117#1138#0" expanded="false" />
+            <element signature="e#1203#1220#0" expanded="false" />
+            <element signature="e#1276#1293#0" expanded="false" />
+            <element signature="e#1383#1422#0" expanded="false" />
+            <element signature="e#1559#1595#0" expanded="false" />
+            <element signature="e#1677#1702#0" expanded="false" />
+            <element signature="e#1745#1768#0" expanded="false" />
+            <element signature="e#1865#1887#0" expanded="false" />
+            <element signature="e#1929#1951#0" expanded="false" />
+            <element signature="e#2048#2080#0" expanded="false" />
+            <element signature="e#2151#2202#0" expanded="false" />
+            <element signature="e#2253#2270#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1186,9 +1179,9 @@
         <state relative-caret-position="266">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#414#415#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1197,14 +1190,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1225,18 +1210,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/spring/springMVC.xml">
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="532">
+          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="38">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/spring/springMVC.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
